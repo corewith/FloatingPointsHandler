@@ -127,11 +127,11 @@ public class Encoder {
         str = "012.3 4";
         str = "123";
         str = "0000";
-        str = "0.0";
-        str = "-0.0";
-        str = "-000.00000011";
-        str="51275.12496";
-        str="5.9";
+//        str = "0.0";
+//        str = "-0.0";
+//        str = "-000.00000011";
+//        str="51275.12496";
+//        str="5.9";
         System.out.println(new Encoder().encode(str));
     }
 }
